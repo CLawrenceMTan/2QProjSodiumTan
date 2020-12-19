@@ -1,0 +1,26 @@
+ul {
+ color: rgb(255,255,255);
+}
+h3 {
+ color: rgb(237, 206, 92);
+}
+#ab {
+ color: rgb(255,0,0);
+}
+h1 {
+ color: rgb(237, 206, 92);
+}
+h2 {
+ color: rgb(67, 100, 110);
+}
+
+#nav:hover {
+ font-size: 110%;
+}
+
+.fb {
+ background: url('images/Sprites.jpg') no repeat 0px 0px;
+ width: 100px;
+ height: 98.5px;
+}
+ 
